@@ -1,5 +1,0 @@
-@app
-favicon
-
-@http
-get /*
